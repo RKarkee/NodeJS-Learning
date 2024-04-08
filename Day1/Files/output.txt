@@ -1,0 +1,3 @@
+ Content write into file : This is a simple file which will be going to read using NODE Js
+ 
+ Date created :Mon Apr 08 2024 23:03:20 GMT+0545 (Nepal Time)

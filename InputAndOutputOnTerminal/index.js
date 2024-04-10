@@ -11,6 +11,7 @@ r1.question("Please Enter your Name:", (name) => {
   console.log("Your Name ::" + name);
   r1.close();
 });
+console.log(process);
 
 r1.on("close", () => {
   console.log("Interface Closed!");

@@ -1,0 +1,4 @@
+This is a simple file which will be going to read using NODE Js
+
+
+ Date Created :Wed Apr 10 2024 17:26:16 GMT+0545 (Nepal Time)
